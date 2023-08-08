@@ -4,7 +4,7 @@
 ###
 
 PROJECT 1: Overview
-###This overview provides an outline of the structure and strategies for the CMPG-323 semester projects.
+### This overview provides an outline of the structure and strategies for the CMPG-323 semester projects.
 
 ###
 
