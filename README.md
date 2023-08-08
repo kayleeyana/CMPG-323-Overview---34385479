@@ -18,7 +18,7 @@ PROJECT 5:
 PORTFOLIO OF EVIDENCE:
    Repository name - EXAM_POE.
 
-PROJECT AND REPOSITORIES:Project structure for the semester.
+PROJECT AND REPOSITORIES: Project structure for the semester.
 
 ![image](https://github.com/kayleeyana/CMPG-323-Overview---34385479/assets/112712495/af584eb0-dc52-445c-af77-85fc3d671fa0)
 
