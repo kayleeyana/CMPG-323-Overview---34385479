@@ -1,19 +1,19 @@
 # CMPG-323-OVERVIEW - 34385479
 This is PROJECT 1 - AGILE AND SCRUM
 
-Each project submission will have the following repositories:
+EACH PROJECT SUBMISSION WILL HAVE THE FOLLOWING REPOSITORIES:
 
 PROJECT 2: 
    Repository name - API Development.
 
 PROJECT 3:
-  Repository name - Patterns and Standards.
+   Repository name - Patterns and Standards.
 
 PROJECT 4:
    Repository name - Testing and RPA.
 
 PROJECT 5:
-  Repository name - Reporting and Monitoring.
+   Repository name - Reporting and Monitoring.
 
 PORTFOLIO OF EVIDENCE:
    Repository name - EXAM_POE.
