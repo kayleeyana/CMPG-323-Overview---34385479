@@ -50,7 +50,8 @@ In every project submission, the .gitignore file will be employed to exclude sen
 # SECURITY:
 To ensure security, sensitive credentials and confidential information will be stored within files explicitly excluded from public visibility. This method guarantees that private data remains safeguarded and inaccessible when the repository is accessible to the public.
 
-
+###
+# CHARTS
 
 
 
