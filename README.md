@@ -4,7 +4,7 @@
 ###
 
 PROJECT 1: Overview
-### This overview provides an outline of the structure and strategies for the CMPG-323 semester projects.
+### Welcome to the CMPG-323 semester projects overview. This overview provides an outline of the structure and strategies for the CMPG-323 semester projects.
 
 ###
 
@@ -33,7 +33,7 @@ Repository Name: EXAM_POE
 ###
 
 # PROJECT STRUCTURE
-The provided image illustrates the structure of each Project Submission along with the corresponding repository name.
+The diagram below provides a visual representation of the structure for each project submission and its corresponding repository name.
 
 ![image](https://github.com/kayleeyana/CMPG-323-Overview---34385479/assets/112712495/af584eb0-dc52-445c-af77-85fc3d671fa0)
 
@@ -44,7 +44,7 @@ The chosen approach for the branching strategy in each project will involve prim
 
 ###
 # .gitignore USAGE:
-In every project submission, the .gitignore file will be employed to exclude sensitive data from being tracked and committed to the repository.
+To maintain a clean repository, each project submission will include a .gitignore file. This file will exclude sensitive data from being tracked and committed, ensuring that only relevant and non-sensitive information is shared.
 
 ###
 # SECURITY:
