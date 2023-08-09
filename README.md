@@ -33,7 +33,7 @@ Repository Name: EXAM_POE
 ###
 
 # PROJECT STRUCTURE
-The diagram below provides a visual representation of the structure for each project submission and its corresponding repository name.
+The diagram below provides a visual representation of the structure of each project submission and its corresponding repository name.
 
 ![image](https://github.com/kayleeyana/CMPG-323-Overview---34385479/assets/112712495/af584eb0-dc52-445c-af77-85fc3d671fa0)
 
@@ -48,7 +48,7 @@ To maintain a clean repository, each project submission will include a .gitignor
 
 ###
 # SECURITY:
-To ensure security, sensitive credentials and confidential information will be stored within files explicitly excluded from public visibility. This method guarantees that private data remains safeguarded and inaccessible when the repository is accessible to the public.
+To ensure security, sensitive credentials, and confidential information will be stored within files explicitly excluded from public visibility. This method guarantees that private data remains safeguarded and inaccessible when the repository is accessible to the public.
 
 ###
 # CHARTS
