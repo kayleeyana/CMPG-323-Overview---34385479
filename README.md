@@ -77,6 +77,8 @@ As the sprints unfolded and tasks are successfully completed and would be checke
 ###
 
 ## Sprint Chart
+<img width="938" alt="image" src="https://github.com/kayleeyana/CMPG-323-Overview---34385479/assets/112712495/080dc153-0472-4aa0-9422-45227725261c">
+
 
 ###
 ###
