@@ -64,7 +64,8 @@ To ensure security, sensitive credentials, and confidential information will be 
 
 # Burndown Chart
 
-![image](https://github.com/kayleeyana/CMPG-323-Overview---34385479/assets/112712495/e411305b-baef-4de6-82f7-df395a628c2f)
+![image](https://github.com/kayleeyana/CMPG-323-Overview---34385479/assets/112712495/94a862d7-c185-43e5-805d-70479a6e0f78)
+
 
 ###
 ###
