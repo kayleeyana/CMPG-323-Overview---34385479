@@ -70,6 +70,19 @@ As the sprints unfolded and tasks are successfully completed and would be checke
 
 ![image](https://github.com/kayleeyana/CMPG-323-Overview---34385479/assets/112712495/376efd45-109d-419b-9e94-010836c47b66)
 
+## Status Chart
+![image](https://github.com/kayleeyana/CMPG-323-Overview---34385479/assets/112712495/1687481e-843b-4515-bf0b-043fb64065f3)
 
+###
+###
+
+## Sprint Chart
+
+###
+###
+
+## Label Chart
+
+![image](https://github.com/kayleeyana/CMPG-323-Overview---34385479/assets/112712495/a7cf7169-d342-4d74-961d-c9735b483e10)
 
 
