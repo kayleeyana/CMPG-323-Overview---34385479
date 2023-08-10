@@ -66,9 +66,8 @@ To ensure security, sensitive credentials, and confidential information will be 
 
 ###
 
-I have created the burndown chart:
-There are a total 80 Hours for each sprint - for all 4 modules.
-I allocated atleast 22 hours for CMPG323 and then looked at this against the tasks for each project submission and how long it would take and compared.
+![image](https://github.com/kayleeyana/CMPG-323-Overview---34385479/assets/112712495/4a24e2a0-3186-4766-84e4-de3c7ac7e728)
+
 
 
 
