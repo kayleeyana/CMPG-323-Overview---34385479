@@ -77,14 +77,12 @@ As the sprints unfolded and tasks are successfully completed and would be checke
 ###
 
 ## Sprint Chart
-<img width="938" alt="image" src="https://github.com/kayleeyana/CMPG-323-Overview---34385479/assets/112712495/080dc153-0472-4aa0-9422-45227725261c">
-
+![image](https://github.com/kayleeyana/CMPG-323-Overview---34385479/assets/112712495/91fda10a-7ccc-4b38-8d96-74bab72db6b6)
 
 ###
 ###
 
 ## Label Chart
-
 ![image](https://github.com/kayleeyana/CMPG-323-Overview---34385479/assets/112712495/a7cf7169-d342-4d74-961d-c9735b483e10)
 
 
