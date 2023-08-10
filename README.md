@@ -67,11 +67,7 @@ To ensure security, sensitive credentials, and confidential information will be 
 ![image](https://github.com/kayleeyana/CMPG-323-Overview---34385479/assets/112712495/e411305b-baef-4de6-82f7-df395a628c2f)
 
 ###
-
-![image](https://github.com/kayleeyana/CMPG-323-Overview---34385479/assets/112712495/4a24e2a0-3186-4766-84e4-de3c7ac7e728)
-
-
-
+###
 
 ## Status Chart
 ![image](https://github.com/kayleeyana/CMPG-323-Overview---34385479/assets/112712495/1687481e-843b-4515-bf0b-043fb64065f3)
