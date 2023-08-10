@@ -62,13 +62,15 @@ To ensure security, sensitive credentials, and confidential information will be 
 ###
 ###
 
-I developed the Burndown chart by initially compiling a comprehensive list of tasks extracted from the linked assessment view. Each task was assigned to its corresponding category, and I calculated the total workload for each category. This aggregation of tasks formed the basis for the Burndown chart creation.
+# Burndown Chart
 
-The Burndown chart was structured around multiple sprints, each representing a distinct phase of work. As we progressed through the project over the course of the semester, the aim is to observe a gradual reduction in the number of tasks remaining within each sprint.
+###
 
-As the sprints unfolded and tasks are successfully completed and would be checked off, the overall task count for each sprint would be expected to decrease incrementally. This visual representation allows us to track our progress and provided a clear indication of how effectively I am managing and completing tasks as the semester advances.
+I have created the burndown chart:
+There are a total 80 Hours for each sprint - for all 4 modules.
+I allocated atleast 22 hours for CMPG323 and then looked at this against the tasks for each project submission and how long it would take and compared.
 
-![image](https://github.com/kayleeyana/CMPG-323-Overview---34385479/assets/112712495/376efd45-109d-419b-9e94-010836c47b66)
+
 
 ## Status Chart
 ![image](https://github.com/kayleeyana/CMPG-323-Overview---34385479/assets/112712495/1687481e-843b-4515-bf0b-043fb64065f3)
