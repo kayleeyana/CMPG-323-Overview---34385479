@@ -38,8 +38,6 @@ Repository Name: EXAM_POE
 # PROJECT STRUCTURE
 The diagram below provides a visual representation of the structure of each project submission and its corresponding repository name.
 
-/////![image](https://github.com/kayleeyana/CMPG-323-Overview---34385479/assets/112712495/af584eb0-dc52-445c-af77-85fc3d671fa0)
-
 ###
 ###
 
@@ -63,10 +61,6 @@ To ensure security, sensitive credentials, and confidential information will be 
 ###
 
 # Burndown Chart
-
-/////![image](https://github.com/kayleeyana/CMPG-323-Overview---34385479/assets/112712495/262cba79-7025-45ed-9841-96d861b435d9)
-
-
 
 ###
 ###
