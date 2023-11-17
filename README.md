@@ -38,7 +38,8 @@ The diagram below provides a visual representation of the structure of each proj
 The chosen approach for the branching strategy in each project will involve primarily working within the main branch. However, in the event of a bug occurrence, a dedicated development branch will be created specifically to address and resolve the issue.
 # .gitignore USAGE:
 To maintain a clean repository, each project submission will include a .gitignore file. This file will exclude sensitive data from being tracked and committed, ensuring that only relevant and non-sensitive information is shared.
-#SECURITY:
+
+##SECURITY:
 To ensure security, sensitive credentials, and confidential information will be stored within files explicitly excluded from public visibility. This method guarantees that private data remains safeguarded and inaccessible when the repository is accessible to the public.
 
 ###
