@@ -1,15 +1,12 @@
 # CMPG-323-OVERVIEW - 34385479
 
 ###
-###
 
 PROJECT 1: Overview
 ### Welcome to the CMPG-323 semester projects overview.
 ###
 This overview provides an outline of the structure and strategies for the CMPG-323 semester projects.
-
 ###
-
 # PROJECT SUBMISSIONS AND REPOSITORIES
 Each project submission will consist of separate repositories, each with a specific focus:
 ###
