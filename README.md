@@ -63,6 +63,10 @@ To ensure security, sensitive credentials, and confidential information will be 
 ## Sprint Chart
 ![image](https://github.com/kayleeyana/CMPG-323-Overview---34385479/assets/112712495/91fda10a-7ccc-4b38-8d96-74bab72db6b6)
 
+CMPG 323 - Project 1 - Project Brief-1.docx: Added the lecturer expectations for this project.
+
+
+
 ###
 ###
 
