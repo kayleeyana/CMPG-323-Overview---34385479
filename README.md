@@ -67,6 +67,6 @@ To ensure security, sensitive credentials, and confidential information will be 
 ###
 
 ## Label Chart
-///![image](https://github.com/kayleeyana/CMPG-323-Overview---34385479/assets/112712495/a7cf7169-d342-4d74-961d-c9735b483e10)
+![image](https://github.com/kayleeyana/CMPG-323-Overview---34385479/assets/112712495/a7cf7169-d342-4d74-961d-c9735b483e10)
 
 
