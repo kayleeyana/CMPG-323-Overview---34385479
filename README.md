@@ -73,5 +73,6 @@ To ensure security, sensitive credentials, and confidential information will be 
 ## CMPG 323 - Project 1 - Project Brief-1.docx: Added the lecturer's expectations for this project.
 ## 34385479_Rubric.xlsx: Added my grading for this project.
 ## Certificatrion(Basics Of Agile).Agile: added certification for agile implementation.
+## 
 
 
